@@ -65,7 +65,7 @@ data/
     └── neurips2025.xlsx
 
 notebook/
-└── conference_affiliation_analysis_case.ipynb
+└── conference_affiliation_analysis_case.ipynb  This notebook demonstrates the main workflow: - preprocessing conference metadata - cleaning affiliation fields - detecting company affiliations - identifying research organizations - analyzing industry–academia collaborations
 
 outputs/
 ├── cvpr2025_company_research_partnerships.xlsx
@@ -81,25 +81,11 @@ README.md
 Each output Excel file contains structured tables describing company participation and collaboration patterns, including:
 
 - total papers by company
-- accepted papers
+- accepted papers by company
 - acceptance rate by company
 - industry–academia collaboration counts
 - research organizations collaborating with companies
 - country and regional distribution
-
-## Notebook
-
-The repository includes a single example notebook:
-
-notebook/conference_affiliation_analysis_case.ipynb
-
-This notebook demonstrates the main workflow:
-
-- preprocessing conference metadata
-- cleaning affiliation fields
-- detecting company affiliations
-- identifying research organizations
-- analyzing industry–academia collaborations
 
 ## Notes
 
