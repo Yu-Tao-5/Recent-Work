@@ -11,7 +11,7 @@ The analysis focuses on:
 - major research organizations partnering with companies
 - geographic distribution of collaborations
 
-- ## Research Questions
+## Research Questions
 
 This project aims to answer several questions about industry participation in AI research:
 
@@ -22,7 +22,7 @@ This project aims to answer several questions about industry participation in AI
 
 The analysis is based on paper metadata from the following conferences: NeurIPS, ICML, CVPR, ICLR
 
-- ## Data Processing Pipeline
+## Data Processing Pipeline
 
 The workflow of this project is:
 
