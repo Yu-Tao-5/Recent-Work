@@ -24,29 +24,12 @@ The analysis is based on paper metadata from the following conferences: NeurIPS,
 
 ## Data Processing Pipeline
 
-The workflow of this project is:
-
-Raw conference metadata (JSON)
-
-↓
-
-Affiliation cleaning and preprocessing
-
-↓
-
-Company detection
-
-↓
-
-Research organization detection
-
-↓
-
-Industry–academia collaboration analysis
-
-↓
-
-Result tables (Excel)
+1. Raw conference metadata (JSON)
+2. Affiliation cleaning and preprocessing
+3. Company detection
+4. Research organization detection
+5. Industry–academia collaboration analysis
+6. Result tables (Excel)
 
 ## Repository Structure
 
